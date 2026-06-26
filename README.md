@@ -2,7 +2,7 @@
 
 ## Task 1: AI Website Copy Generator
 
-Business Name: Smart Canteen
+Business Name: Brew Haven Café
 
 Intern Name: SHAILINI.C
 
